@@ -1,0 +1,19 @@
+{
+  "name": "ClassVehicle",
+  "version": "1.0.0",
+  "description": "A Class Creation Helper... Class",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ballantyno/ClassVehicle.git"
+  },
+  "keywords": [
+    "Class Creation",
+    "JavaScript Class",
+    "Abstract Classes",
+    "Class Extend",
+    "Class Wrapper"
+  ],
+  "author": "Andrew Ballantyne",
+  "license": "MIT",
+  "homepage": "https://github.com/ballantyno/ClassVehicle"
+}
