@@ -1,8 +1,31 @@
-# ClassVehicle
+# Class Vehicle
 
 A Class Creation Helper... Class. This source file can be used to create a JavaScript Class and maintain abstract-ness and handle any extending of other classes.
 
-# Usage
+## Contents
+
+1. [Project Include](#project_include)
+1. [JavaScript Usage](#javascript_usage)
+1. [License](#license)
+
+## Project Include
+
+NPM can be used to include Class Vehicle as a dependency. 
+
+Directly from the NPM installer:
+```
+$ npm install class_vehicle
+```
+
+Or include it in your package.json:
+
+```
+dependencies: {
+  "class_vehicle": "1.0.1"
+}
+```
+
+## JavaScript Usage
 
 Take the creation of two classes:
 ```JavaScript
@@ -38,7 +61,7 @@ new ClassA(); // this will throw an error due to the fact that ClassA is abstrac
 new ClassB(); // this will work and have all the prototyped values from ClassA
 ```
 
-# License
+## License
 
 The MIT License (MIT)
 
