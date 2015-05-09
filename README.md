@@ -4,8 +4,8 @@ A Class Creation Helper... Class. This source file can be used to create a JavaS
 
 ## Contents
 
-1. [Project Include](#project_include)
-1. [JavaScript Usage](#javascript_usage)
+1. [Project Include](#project-include)
+1. [JavaScript Usage](#javascript-usage)
 1. [License](#license)
 
 ## Project Include
